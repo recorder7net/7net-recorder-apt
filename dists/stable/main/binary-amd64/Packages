@@ -1,0 +1,22 @@
+Package: 7net-recorder
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: video
+Maintainer: 7net Recorder Team
+Installed-Size: 107212
+Depends: libc6 (>= 2.38), libgcc-s1, libstdc++6, zlib1g, libicu74 | libicu76 | libicu78, libssl3t64 | libssl3, libx11-6, libice6, libsm6, libfontconfig1, ffmpeg, gjs, gstreamer1.0-tools, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, gstreamer1.0-pulseaudio, pulseaudio-utils, xdg-utils, xdg-desktop-portal, xdg-desktop-portal-gnome, gnome-shell, fonts-noto-core, fonts-noto-cjk
+Filename: pool/main/7/7net-recorder/7net-recorder_1.0.0_amd64.deb
+Size: 36395168
+MD5sum: 17eebe5142d659888219455df7a7f204
+SHA1: 98702ca96fa48d237e17d8a840fb53fc22019c12
+SHA256: c77f5adfe904a3cbdc239f8c9fbf650d0e0fa4527baa9ca531d04e4b3fcb1fe3
+SHA512: c38259816f7e0037407ed2302534e8a9485cd8c03533698a519434b2023fcc5bec6fbe7b52a1dc389be146d84fbad0d9f5083a102b2644e171b94ead748874f1
+Homepage: https://recorder.7net.vn
+Description: Screen recording made simple
+ 7net Recorder is a screen recorder for Ubuntu GNOME created by 7net. It
+ supports full-display and custom-area recording, system audio, microphone,
+ webcam overlay, global hotkeys and a 20-language interface. This package
+ includes the .NET runtime; Ubuntu package dependencies provide the native
+ GNOME, GStreamer and FFmpeg components required by the recorder.
+

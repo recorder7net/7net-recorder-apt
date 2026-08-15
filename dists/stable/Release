@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 15 Aug 2026 08:55:54 +0000
+Description: Official APT repository for 7net Recorder
+Label: 7net Recorder
+Origin: 7net Recorder
+Suite: stable
+MD5Sum:
+ 07962a5ba3d2bbd9ecc5ec630d399abd              205 Release
+ 59dc8c3fdac7b1d3dd82a5bcdf68b7b4             1406 main/binary-amd64/Packages
+ 38ef8fc1361f35d21f589124ee5ee584              840 main/binary-amd64/Packages.gz
+SHA1:
+ b3591d554b5b5dc57b9e1a6f2b1c442b98409a51              205 Release
+ 2d15554572421f2bfd1ee1f013022524513d24ee             1406 main/binary-amd64/Packages
+ 7f2f858e578ce1755e6bcb4029518863c47e02d4              840 main/binary-amd64/Packages.gz
+SHA256:
+ 289f2b0fc38232889631ce7ee1f596e0c07e9a936910673e30612e23ab967e3d              205 Release
+ 53064ed0a75f872ef2481840cd4a1885ce41075bea9046d21a020f0aebc71aef             1406 main/binary-amd64/Packages
+ 4984b8e09212f79805e0895344cd3d29cd8f488907f4ad38a5fcc6f8214d4c09              840 main/binary-amd64/Packages.gz
+SHA512:
+ 00107caf29e2e44424f47440bf16a30d98df235344577b3d8d528ead3bbefdb472dc96eb8295317e8b16040266d956065c239c27ce4e45da52aefb337129402f              205 Release
+ 7c1fa5c6260c61445cf6ccd22c0818f938b04703c4d6ae7557f911bb91161067627fc0fbcac5576e90c008e9591045fb1c3f4b72b55705c62810a5eff9cefcc6             1406 main/binary-amd64/Packages
+ 79d2b31443c68c877eb09f5a4e4cc204d6e7f720a13dfbb3d9a9f793f0a9cd529e9a9660b366361804fa1211833f8f41e94b455dfc8946dc9684ec95493d8fa4              840 main/binary-amd64/Packages.gz
